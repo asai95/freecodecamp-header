@@ -8,4 +8,4 @@ var server = http.createServer((req, resp) => {
     }))
 })
 
-server.listen(8080)
+server.listen(process.env.PORT)

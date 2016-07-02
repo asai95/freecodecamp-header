@@ -1,0 +1,9 @@
+{
+    "name": "freecodecamp-header",
+    "version": "1.0.0",
+    "main": "header.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/asai95/freecodecamp-header"
+    }
+}
